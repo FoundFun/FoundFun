@@ -11,6 +11,13 @@ I'm developing games on the Unity engine.
 - :heart: I like to create my own games.
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/iFoundFun)
 
+  ![](https://github-readme-stats.vercel.app/api?username=FoundFun&show_icons=true&theme=tokyonight)<br>
+<a href="#">![](https://user-images.githubusercontent.com/5438317/112865493-80449c00-90c1-11eb-8342-d239f8361ad9.gif)</a><br>
+
+- name: GitHub-Profile-3D-Contrib
+uses: yoshi389111/github-profile-3d-contrib@0.7.1
+            
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
